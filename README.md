@@ -6,7 +6,9 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
-Analizar y describir las características básicas de los inductores
+Analizar y describir las características básicas de los inductores.
+
+Describir cómo se construyeN los transformador y cómo funcionan.
 
 1.1-Objetivos Específicos:
 
@@ -14,7 +16,7 @@ Analizar y describir las características básicas de los inductores
 
 -Analizar los circuitos inductivos de ca y cd
 
--Reconocer las distintas ondas sinusoidales existentes en los circuitos eléctricos.
+-Describir cómo los transformadores incrementan y disminuyen el voltaje
 
 2.-Marco Teórico:
 
