@@ -36,21 +36,9 @@ Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea6/blob/main/S1.png)
+![](https://github.com/phchalco/Tarea7/blob/main/A1.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/S2.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S3.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S4.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S5.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S6.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S7.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/S8.png)
+![](https://github.com/phchalco/Tarea7/blob/main/A2.png)
 
 Capítulo 14
 
@@ -98,28 +86,21 @@ Transformadores con tomas y devanados múltiples
 
 4.-Video
 
-https://www.youtube.com/watch?v=HMbY7oa48KI
+https://www.youtube.com/watch?v=Nxr6F6N0ElM
 
 5.-Conclusiones:
 
--En virtud de lo argumentado, podemos concluir que la corriente y voltajes alternos son de mucha importancia en el área de circuitos eléctricos ya que estas
-se manipulan de distinta forma y su estudio abarca muchas más cosas.
+-En virtud de lo argumentado, podemos concluir que el análisis de los transformadores en serie y paralelo son de mucha importancia en el área de circuitos eléctricos 
+ya que estas se manipulan de distinta forma y su estudio abarca muchas más cosas.
 
--Finalmente, el tema de capacitores es de gran importancia ya que este dispositivo se encuentra en muchos circuitos eléctricos que van de los más sencillos a
-los más complejos, abarcando gran parte de dispositivos eléctricos en la vida cotidiana.
+-Finalmente, el tema de los inductores y como intervienen en las distintas corrientes ya sea ca o cd nos deja mucho enseñanza sobre como actuar en caso, de que nos toque su manipulación en los distintos circuitos que se presentan en la vida real.
 
 6.-Bibliografía
 
-¿Qué es un capacitor o condensador eléctrico? | Quartux. (s. f.). https://www.quartux.com/blog/que-es-un-capacitor-o-condensador-electrico
+Transformador ideal y real. (2016, 22 noviembre). Máquinas Eléctricas. https://maquinaselectricasblog.wordpress.com/transformador-ideal-y-real/
 
-Montero, M. (2021, 22 abril). Introducción a los circuitos de condensadores conmutados. TecNoticias, tu portal de información. https://tecnoticias.net/2021/04/introduccion-a-los-circuitos-de-condensadores-conmutados/
+Torres, H. (2018, 1 febrero). Inductancia Mutua. HeTPro-Tutoriales. https://hetpro-store.com/TUTORIALES/inductancia-mutua/
 
-Forma de onda sinusoidal. (2018, 2 junio). Electronica Lugo. https://electronicalugo.com/forma-de-onda-sinusoidal/
+P, A. (2020, 28 junio). Bobinas o inductores en serie y paralelo. Electrónica Unicrom. https://unicrom.com/bobinas-o-inductores-en-serie-y-paralelo/
 
-c, C. (2021, 8 enero). Representación Fasorial de corrientes y voltajes – Fasores. dademuchconnection. https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
-
-a, A. (2020, 29 julio). Condensador en CC (CD) - Capacitor y la corriente directa - Electrónica Unicrom %. Electrónica Unicrom. https://unicrom.com/condensador-en-cc-dc/
-
-¿Cuáles son las principales aplicaciones de los capacitores? (2022, 28 agosto). Electropreguntas. https://electropreguntas.com/cuales-son-las-principales-aplicaciones-de-los-capacitores/
-
-O, A. (s. f.). DEFINICION, USO Y TIPOS DE OSCILOSCOPIOS. Equipos y laboratorio de Colombia. https://www.equiposylaboratorio.com/portal/articulo-ampliado/definicion-uso-y-tipos-de-osciloscopios
+N, A. (2020, 2 abril). El inductor o bobina y las corrientes continua y alterna, factor de calidad. Electrónica Unicrom. https://unicrom.com/el-inductor-o-bobina-y-las-corrientes-continua-y-alterna-factor-de-calidad-q/
