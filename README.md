@@ -88,8 +88,6 @@ Transformadores con tomas y devanados múltiples
 
 ![](https://github.com/phchalco/Tarea7/blob/main/B5.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/B6.jpg)
-
 4.-Video
 
 https://www.youtube.com/watch?v=Nxr6F6N0ElM
