@@ -36,7 +36,7 @@ Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea7/blob/main/A1.png)
+![](https://github.com/phchalco/Tarea7/blob/main/A1.jng)
 
 ![](https://github.com/phchalco/Tarea7/blob/main/A2.png)
 
