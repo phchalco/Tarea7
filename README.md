@@ -20,27 +20,19 @@ Describir cómo se construyeN los transformador y cómo funcionan.
 
 2.-Marco Teórico:
 
-Capitulo 11 INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS
+Capitulo 13 INDUCTORES
 
-Este capítulo proporciona una introducción al análisis de circuitos de ca en el cual se estudian las señales eléctricas que varían 
-con el tiempo, en particular la onda seno. Una señal eléctrica es un voltaje o una corriente que cambian de manera consistente con el 
-tiempo. En otras palabras, el voltaje o la corriente fluctúan de acuerdo con cierto patrón llamado forma de onda.
+Se analiza la construcción básica y las propiedades eléctricas de los inductores, así como los efectos de conectarlos en serie
+y en paralelo. Cómo funciona un inductor en circuitos de cd y de ca es una parte importante de esta cobertura y forma la base 
+para estudiar circuitos reactivos en función tanto de respuesta de frecuencia como de respuesta de tiempo.
 
-La forma de onda sinusoidal
+El inductor básico y Tipos de inductores
 
-![](https://github.com/phchalco/Tarea6/blob/main/R1.png)
+![](https://github.com/phchalco/Tarea7/blob/main/J1.png)
 
-Fuentes de voltaje sinusoidal, Valores sinusoidales de voltaje y corriente y Medición angular de una onda seno
+Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en circuitos de CA
 
-![](https://github.com/phchalco/Tarea6/blob/main/R2.png)
-
-Introducción a los fasores y Análisis de circuitos de CA
-
-![](https://github.com/phchalco/Tarea6/blob/main/R3.png)
-
-Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El osciloscopio
-
-![](https://github.com/phchalco/Tarea6/blob/main/R4.png)
+![](https://github.com/phchalco/Tarea7/blob/main/J4.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -60,14 +52,13 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 ![](https://github.com/phchalco/Tarea6/blob/main/S8.png)
 
-Capítulo 12
+Capítulo 14
 
-CAPACITORES
+TRANSFORMADORES
 
-El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campoeléctrico que, a su vez, guarda energía.
-La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica una señal sinusoidal a un 
-capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. 
-Esta oposición a la corriente se llama reactancia capacitiva.
+En este capítulo, estudiará la inductancia mutua, que es la base para la operación de transformadores. Se utilizan transformadores 
+en todo tipo de aplicaciones tales como fuentes de potencia, distribución de potencia eléctrica, y acoplamiento deseñales en 
+sistemas de comunicaciones.
 
 El capacitor básico y Tipos de capacitores
 
