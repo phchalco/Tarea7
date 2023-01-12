@@ -38,7 +38,19 @@ Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en
 
 ![](https://github.com/phchalco/Tarea7/blob/main/A1.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A2.png)
+![](https://github.com/phchalco/Tarea7/blob/main/A2.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A3.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A4.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A5.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A6.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A7.jpg)
+
+![](https://github.com/phchalco/Tarea7/blob/main/A8.jpg)
 
 Capítulo 14
 
@@ -66,23 +78,17 @@ Transformadores con tomas y devanados múltiples
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea6/blob/main/M1.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B1.jpg)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M2.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B2.jpg)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M3.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B3.jpg)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M4.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B4.jpg)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M5.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B5.jpg)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M6.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/M7.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/M8.png)
-
-![](https://github.com/phchalco/Tarea6/blob/main/M9.png)
+![](https://github.com/phchalco/Tarea7/blob/main/B6.jpg)
 
 4.-Video
 
