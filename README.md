@@ -60,21 +60,21 @@ En este capítulo, estudiará la inductancia mutua, que es la base para la opera
 en todo tipo de aplicaciones tales como fuentes de potencia, distribución de potencia eléctrica, y acoplamiento deseñales en 
 sistemas de comunicaciones.
 
-El capacitor básico y Tipos de capacitores
+Inductancia mutua y El transformador básico
 
-![](https://github.com/phchalco/Tarea6/blob/main/F1.png)
+![](https://github.com/phchalco/Tarea7/blob/main/H1.png)
 
-Capacitores en serie y Capacitores en paralelo
+Transformadores elevadores y reductores, Carga del devanado secundario y Carga reflejada
 
-![](https://github.com/phchalco/Tarea6/blob/main/F2.png)
+![](https://github.com/phchalco/Tarea7/blob/main/H2.png)
 
-Capacitores en circuitos de CD y Capacitores en circuitos de CA
+Igualación de impedancia, Características de un transformador no ideal (transformador real)
 
-![](https://github.com/phchalco/Tarea6/blob/main/F3.png)
+![](https://github.com/phchalco/Tarea7/blob/main/H3.png)
 
-Aplicaciones de los capacitores y Circuitos de capacitor conmutados
+Transformadores con tomas y devanados múltiples
 
-![](https://github.com/phchalco/Tarea6/blob/main/F4.png)
+![](https://github.com/phchalco/Tarea7/blob/main/H4.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
