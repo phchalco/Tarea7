@@ -32,7 +32,7 @@ El inductor básico y Tipos de inductores
 
 Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en circuitos de CA
 
-![](https://github.com/phchalco/Tarea7/blob/main/J4.png)
+![](https://github.com/phchalco/Tarea7/blob/main/J2.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
